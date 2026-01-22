@@ -60,7 +60,7 @@ Proper dataset formatting (reset_index, sorting, cleaning revenue values)
 Plotting graphs for data storytelling
 
 ▶️ How to Run
-Clone the repository: git clone https://github.com/your-username/your-repo-name.git
+Clone the repository: git clone https://github.com/riturajm62-cloud/Analyzing-Historical-Stock
 
 Install dependencies: pip install pandas yfinance beautifulsoup4 requests matplotlib
 
